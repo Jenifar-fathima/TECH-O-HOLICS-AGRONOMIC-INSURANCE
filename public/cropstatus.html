@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Status </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <h1>Crop Status </h1>
+            <table>
+                <tr>
+                  <th>Crop Name</th>
+                  <th>Cultivation Date</th>
+                  <th>Harvest Date </th>
+                  <th>Completion Status </th>
+                </tr>
+                <tr>
+                  <td>Wheat</td>
+                  <td>23/06/2023</td>
+                  <td>10/09/2023</td>
+                  <td><input type="radio" id="yes" name="status" value="yes">
+                    <label for="yes">Yes</label>
+                    <input type="radio" id="no" name="status" value="no">
+                    <label for="no">No</label>
+                  </td>
+                </tr>
+                <tr>
+                    <td>Millet</td>
+                    <td>04/04/2023</td>
+                    <td>12/07/2023</td>
+                    <td><input type="radio" id="yes" name="status" value="yes">
+
+                      <label class="radio-inline" for="yes">Yes</label>
+                      <input type="radio" id="no" name="status" value="no">
+                      <label class="radio-inline" for="no">No</label>
+                    </td>
+                  </tr>
+               </table>
+               <label for="Notcompleted">If not completed,Please Provide the Reason</label>
+                <input type="text" id="notcompleted" name="notcompleted" required>
+                <a href="applyinsurance.html"><button>CLAIM</button></a>
+        </div>
+    </div>
+      </body>
+  </html>

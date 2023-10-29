@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("C:\\Users\\priya\\my-react-app\\src\\assets\\h1_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    
+  }
+  
+  header {
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+    background-image: url("C:\\Users\\priya\\my-react-app\\src\\assets\\h1_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  section {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+  }
+
+.container{
+    padding: 30px;
+}
+ 
+button {
+    background-color: #fff;
+    color: #060505;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.img{
+  border: 5px solid #fff;
+  border-radius: 4px;
+  padding: 5px;
+  width:80px;
+  position:relative;
+  right: 210px;
+}
+  
