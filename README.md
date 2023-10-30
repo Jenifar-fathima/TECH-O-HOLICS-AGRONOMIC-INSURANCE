@@ -2,7 +2,7 @@
 
 ## Overview
 
-We proudly present "AGROCONOMICS INSURANCE: Crop Insurance for Farmer Using Blockchain and XDC Network," a groundbreaking project developed for the esteemed Hackverse, the largest Web3 hackathon in Southern India, co-powered by Dimo. Our project is a testament to the collaborative spirit and innovative drive that defines the Web3 ecosystem.
+We proudly present "AGRONOMIC INSURANCE: Crop Insurance for Farmer Using Blockchain and XDC Network," a groundbreaking project developed for the esteemed Hackverse, the largest Web3 hackathon in Southern India, co-powered by Dimo. Our project is a testament to the collaborative spirit and innovative drive that defines the Web3 ecosystem.
 
 ### Project Vision
 
