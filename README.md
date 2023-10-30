@@ -23,3 +23,11 @@ Our mission is to build a more inclusive, transparent, and secure future for far
 At Hackverse, we stand as advocates for the Web3 movement, demonstrating the transformative potential of decentralized technologies in traditionally underserved sectors. We are excited to share our vision with the community and seek support and collaboration from like-minded individuals who are passionate about shaping the future.
 
 Join us in this journey to make crop insurance more accessible, efficient, and secure for farmers. Together, we're sowing the seeds of change in agriculture and decentralized technologies.
+ 
+### Screenshots:
+![Alt text](<sample of this project/page1.png>)
+![Alt text](<sample of this project/page 2.png>)
+![Alt text](<sample of this project/page3.png>)
+![Alt text](<sample of this project/page4.png>)
+![Alt text](<sample of this project/page5.png>)
+![Alt text](<sample of this project/page6.png>)
